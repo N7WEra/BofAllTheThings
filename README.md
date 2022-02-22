@@ -58,6 +58,9 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
 7. Toggle_Token_Privileges_BOF - An (almost) syscall-only BOF file intended to either add or remove token privileges within the context of your current process.
    * Credit - https://github.com/EspressoCake
    * Link - https://github.com/EspressoCake/Toggle_Token_Privileges_BOF
+7. Inject ETW Bypass - Inject ETW Bypass into Remote Process via Syscalls (HellsGate|HalosGate)
+   * Credit - https://twitter.com/0xBouk
+   * Link - https://github.com/boku7/injectEtwBypass
 
 ### Credential Access
 1. Cobalt-Clip - Cobalt-Clip is clipboard add-on for Cobalt Strike to interact with the victim's clipboard. With Cobalt-Clip you can dump, edit and monitor the content of a clipboard.
@@ -66,6 +69,9 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
 2. PPLDump BOF - A fully-fledged BOF to dump an arbitrary protected process.
    * Credit - https://github.com/EspressoCake
    * Link - https://github.com/EspressoCake/PPLDump_BOF
+3. NoteThief - Grab unsaved Notepad contents with a Beacon Object File
+   * Credit - https://twitter.com/trainr3kt
+   * Link - https://github.com/trainr3kt/NoteThief
    
 ### Lateral Movement
 1. DCOM Lateral Movement -  quick PoC that uses DCOM (ShellWindows) via beacon object files for lateral movement.
