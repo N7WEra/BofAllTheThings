@@ -14,8 +14,8 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
    * Link - https://github.com/ajpc500/BOFs
 3. Riccardo Ancarani BOFs Collection
    * BOFS - send_shellcode_via_pipe, cat , wts_enum_remote_processes, unhook
-   * Credit - https://twitter.com/ajpc500
-   * Link - https://github.com/ajpc500/BOFs
+   * Credit - https://twitter.com/dottor_morte
+   * Link - https://github.com/RiccardoAncarani/BOFs
 4. rvrsh3ll BOFs Collection
    * BOFS - GetDomainInfo, GetClipboard, dumpwifi, portscan, registryPersistence
    * Credit - https://twitter.com/424f424f
@@ -31,6 +31,9 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
 3. InlineExecute-Assembly - proof of concept Beacon Object File (BOF) that allows security professionals to perform in process .NET assembly execution as an alternative to Cobalt Strikes traditional fork and run execute-assembly module
    * Credit - https://twitter.com/anthemtotheego
    * Link - https://github.com/anthemtotheego/InlineExecute-Assembly
+4. Inject-assembly - Execute .NET in an Existing Process. This tool is an alternative to traditional fork and run execution for Cobalt Strike. The loader can be injected into any process, including the current Beacon. Long-running assemblies will continue to run and send output back to the Beacon, similar to the behavior of execute-assembly.
+   * Credit - https://twitter.com/kyleavery_
+   * Link - https://github.com/kyleavery/inject-assembly
 
 ### Situational Awareness
 1. FindObjects-BOF - A Cobalt Strike Beacon Object File (BOF) project which uses direct system calls to enumerate processes for specific modules or process handles.
