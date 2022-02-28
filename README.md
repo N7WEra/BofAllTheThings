@@ -60,6 +60,9 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
 8. ChromiumKeyDump - BOF implementation of Chlonium tool to dump Chrome/Edge Masterkey and download Cookie/Login Data files
    * Credit - https://twitter.com/cryptopeg
    * Link - https://github.com/crypt0p3g/bof-collection
+9. LdapSignCheck - Beacon Object File to scan a Domain Controller to see if LdapEnforceChannelBinding or LdapServerIntegrity has been modified to mitigate against relaying attacks.
+   * Credit - https://twitter.com/cube0x0
+   * Link - https://github.com/cube0x0/LdapSignCheck
 
 ### Persistence
  
