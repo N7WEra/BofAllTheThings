@@ -92,7 +92,7 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
    * Link - https://github.com/EspressoCake/Toggle_Token_Privileges_BOF
 8. Inject ETW Bypass - Inject ETW Bypass into Remote Process via Syscalls (HellsGate|HalosGate)
    * Credit - https://twitter.com/0xBouk
-   * Link - https://github.com/boku7/injectEtwBypass\
+   * Link - https://github.com/boku7/injectEtwBypass
 9. Inject AMSI Bypass - Cobalt Strike Beacon Object File (BOF) that bypasses AMSI in a remote process with code injection.
    * Credit - https://twitter.com/0xBouk
    * Link - https://github.com/boku7/injectAmsiBypass
