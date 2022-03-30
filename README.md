@@ -136,6 +136,9 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
 3. ServiceMove-BOF -  Lateral movement technique by abusing Windows Perception Simulation Service to achieve DLL hijacking
    * Credit - https://twitter.com/netero_1010
    * Link - https://github.com/netero1010/ServiceMove-BOF
+4. DelegationBOF -  This tool uses LDAP to check a domain for known abusable Kerberos delegation settings. Currently, it supports RBCD, Constrained, Constrained w/Protocol Transition, and Unconstrained Delegation checks.
+   * Credit - https://twitter.com/N4k3dTurtl3
+   * Link - https://github.com/IcebreakerSecurity/DelegationBOF
 
 ### Exfiltration
 
