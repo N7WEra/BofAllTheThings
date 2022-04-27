@@ -5,9 +5,9 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
 
 ### BOF Collections
 1. TrustedSec BOFS
-   * BOFS - arp, adcs_enum, adcs_enum_com, adcs_enum_com2, adv_audit_policies, cacls, dir, driversigs, enum_filter_driver, enumLocalSessions, env, findLoadedModule, get_password_policy, ipconfig, ldapsearch, listdns, listmods, listpipes, netstat, netuser, netuse_add, netuse_delete, netuse_list, netview, netGroupList, netGroupListMembers, netLocalGroupList, netLocalGroupListMembers, nslookup, reg_query, reg_query_recursive, routeprint, schtasksenum, schtasksquery, sc_enum, sc_qc, sc_qfailure, sc_qtriggerinfo, sc_query, sc_qdescription, tasklist, whoami, windowlist, wmi_query, netsession, resources, uptime, vssenum
+   * BOFS - arp, adcs_enum, adcs_enum_com, adcs_enum_com2, adv_audit_policies, cacls, dir, driversigs, enum_filter_driver, enumLocalSessions, env, findLoadedModule, get_password_policy, ipconfig, ldapsearch, listdns, listmods, listpipes, netstat, netuser, netuse_add, netuse_delete, netuse_list, netview, netGroupList, netGroupListMembers, netLocalGroupList, netLocalGroupListMembers, nslookup, reg_query, reg_query_recursive, routeprint, schtasksenum, schtasksquery, sc_enum, sc_qc, sc_qfailure, sc_qtriggerinfo, sc_query, sc_qdescription, tasklist, whoami, windowlist, wmi_query, netsession, resources, uptime, vssenum, adcs_request, chromeKey, enableuser, procdump, ProcessDestroy, ProcessListHandles, reg_delete, reg_save, reg_set, sc_config, sc_create, sc_delete, sc_description, sc_start, sc_stop, schtaskscreate, schtasksdelete, schtasksstop, setuserpass, shspawnas
    * Credit - https://twitter.com/ajpc500
-   * Link - https://github.com/trustedsec/CS-Situational-Awareness-BOF
+   * Link - https://github.com/trustedsec/CS-Situational-Awareness-BOF and https://github.com/trustedsec/CS-Remote-OPs-BOF
 2. ajpc500 BOFs Collection
    * BOFS - ETW Patching, Syscalls shellcode injection, API Function Utility, Spawn and Syscalls Shellcode Injection, Spawn and Syscalls Shellcode Injection (NtQuereApcThread), Static Syscalls Shellcode Injection, Static syscalls Process Dump,  curl
    * Credit - https://twitter.com/ajpc500
@@ -20,6 +20,11 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
    * BOFS - GetDomainInfo, GetClipboard, dumpwifi, portscan, registryPersistence
    * Credit - https://twitter.com/424f424f
    * Link - https://github.com/rvrsh3ll/BOF_Collection
+4. Outflank BOFs Collection
+   * BOFS - AddMachineAccount, Askcreds, Domaininfo, Kerberoast, Lapsdump, Psw, Smbinfo, SprayAD, StartWebClient, Winver
+   * Credit - https://twitter.com/OutflankNL
+   * Link - https://github.com/outflanknl/C2-Tool-Collection
+
 
 ### Execution
 1. tgtdelegation - obtain a usable TGT for the current user and does not require elevated privileges on the host
