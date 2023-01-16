@@ -130,6 +130,9 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
 7. Silent Lsass Dump - Dump Lsass using Slient Process method
    * Credit - https://github.com/guervild
    * Link - https://github.com/guervild/BOFs
+8. aad_prt - extract Azure AD PRT tokens
+   * Credit - https://twitter.com/wotwot563
+   * Link - https://github.com/wotwot563/aad_prt_bof
 
 ### Lateral Movement
 1. DCOM Lateral Movement -  quick PoC that uses DCOM (ShellWindows) via beacon object files for lateral movement.
