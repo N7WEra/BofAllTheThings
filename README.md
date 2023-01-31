@@ -68,10 +68,19 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
 9. LdapSignCheck - Beacon Object File to scan a Domain Controller to see if LdapEnforceChannelBinding or LdapServerIntegrity has been modified to mitigate against relaying attacks.
    * Credit - https://twitter.com/cube0x0
    * Link - https://github.com/cube0x0/LdapSignCheck
+10. ScreenshotBOF - An alternative screenshot capability for Cobalt Strike that uses WinAPI and does not perform a fork & run. Screenshot downloaded in memory.
+    * Credit - https://twitter.com/codex_tf2
+    * Link - https://github.com/CodeXTF2/ScreenshotBOF
 
 ### Persistence
  
 ### Privilege Escalation
+1. kernel-mii - Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551.
+   * Credit - https://twitter.com/tijme
+   * Link - https://github.com/tijme/kernel-mii
+2. amd-ryzen-master-driver-v17-exploit - Cobalt Strike (CS) Beacon Object File (BOF) for kernel exploitation using AMD's Ryzen Master Driver (version 17).
+   * Credit - https://twitter.com/tijme
+   * Link - https://github.com/tijme/amd-ryzen-master-driver-v17-exploit
 
 ### Defense Evasion
 1. WdToggle - A Proof of Concept Cobalt Strike Beacon Object File which uses direct system calls to enable WDigest credential caching and circumvent Credential Guard (if enabled).
@@ -107,6 +116,15 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
 11. Detect-Hooks - Detect-Hooks is a proof of concept Beacon Object File (BOF) that attempts to detect userland API hooks in place by AV/EDR
    * Credit - https://twitter.com/anthemtotheego
    * Link - https://github.com/xforcered/Detect-Hooks
+12. Defender Exclusions BOF - A BOF to determine Windows Defender exclusions. 
+    * Credit - https://twitter.com/the_bit_diddler
+    * Link - https://github.com/EspressoCake/Defender_Exclusions-BOF
+13. ASRenum-BOF - Cobalt Strike BOF that identifies Attack Surface Reduction (ASR) rules, actions, and exclusion locations.
+    * Credit - https://twitter.com/mlcsec
+    * Link - https://github.com/mlcsec/ASRenum-BOF
+14. CobaltWhispers -  CobaltWhispers is an aggressor script that utilizes a collection of Beacon Object Files (BOF) for Cobalt Strike to perform process injection, persistence and more, leveraging direct syscalls (SysWhispers2) to bypass EDR/AV.
+    * Credit - https://twitter.com/cerbersec
+    * Link - https://github.com/NVISOsecurity/CobaltWhispers
 
 ### Credential Access
 1. Cobalt-Clip - Cobalt-Clip is clipboard add-on for Cobalt Strike to interact with the victim's clipboard. With Cobalt-Clip you can dump, edit and monitor the content of a clipboard.
@@ -147,6 +165,9 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
 4. DelegationBOF -  This tool uses LDAP to check a domain for known abusable Kerberos delegation settings. Currently, it supports RBCD, Constrained, Constrained w/Protocol Transition, and Unconstrained Delegation checks.
    * Credit - https://twitter.com/N4k3dTurtl3
    * Link - https://github.com/IcebreakerSecurity/DelegationBOF
+5. RDPHijack-BOF - Cobalt Strike Beacon Object File (BOF) that uses WinStationConnect API to perform local/remote RDP session hijacking.
+    * Credit - https://twitter.com/netero_1010
+    * Link: https://github.com/netero1010/RDPHijack-BOF
 
 ### Exfiltration
 
