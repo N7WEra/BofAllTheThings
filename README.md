@@ -24,6 +24,10 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
    * BOFS - AddMachineAccount, Askcreds, Domaininfo, Kerberoast, Lapsdump, Psw, Smbinfo, SprayAD, StartWebClient, Winver
    * Credit - https://twitter.com/OutflankNL
    * Link - https://github.com/outflanknl/C2-Tool-Collection
+5. REDMED-X - OperatorsKit
+   * BOFS - BlindEventlog, DllEnvHijacking, FindDotnet, FindHandle, FindLib, FindRWX, FindSysmon, HideFile, LoadLib, PSremote, SilenceSysmon
+   * Credit - Unknown at the moment
+   * Link - https://github.com/REDMED-X/OperatorsKit
 
 
 ### Execution
