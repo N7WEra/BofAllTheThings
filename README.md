@@ -43,6 +43,9 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
 4. Inject-assembly - Execute .NET in an Existing Process. This tool is an alternative to traditional fork and run execution for Cobalt Strike. The loader can be injected into any process, including the current Beacon. Long-running assemblies will continue to run and send output back to the Beacon, similar to the behavior of execute-assembly.
    * Credit - https://twitter.com/kyleavery_
    * Link - https://github.com/kyleavery/inject-assembly
+5. BokuLoader -  A proof-of-concept Cobalt Strike Reflective Loader which aims to recreate, integrate, and enhance Cobalt Strike's evasion features! 
+   * Credit - https://twitter.com/0xBoku
+   * Link - https://github.com/boku7/BokuLoader
 
 ### Situational Awareness
 1. FindObjects-BOF - A Cobalt Strike Beacon Object File (BOF) project which uses direct system calls to enumerate processes for specific modules or process handles.
