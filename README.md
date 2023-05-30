@@ -78,6 +78,9 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
 10. ScreenshotBOF - An alternative screenshot capability for Cobalt Strike that uses WinAPI and does not perform a fork & run. Screenshot downloaded in memory.
     * Credit - https://twitter.com/codex_tf2
     * Link - https://github.com/CodeXTF2/ScreenshotBOF
+11. ASRenum - Identify ASR rules, actions, and exclusion locations
+   * Credit - [https://twitter.com/wotwot563](https://twitter.com/mlcsec)
+   * Link - [https://github.com/wotwot563/aad_prt_bof](https://github.com/mlcsec/ASRenum-BOF)
 
 ### Persistence
  
