@@ -79,8 +79,8 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
     * Credit - https://twitter.com/codex_tf2
     * Link - https://github.com/CodeXTF2/ScreenshotBOF
 11. ASRenum - Identify ASR rules, actions, and exclusion locations
-   * Credit - [https://twitter.com/wotwot563](https://twitter.com/mlcsec)
-   * Link - [https://github.com/wotwot563/aad_prt_bof](https://github.com/mlcsec/ASRenum-BOF)
+   * Credit - https://twitter.com/mlcsec
+   * Link - https://github.com/mlcsec/ASRenum-BOF
 
 ### Persistence
  
@@ -91,6 +91,9 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
 2. amd-ryzen-master-driver-v17-exploit - Cobalt Strike (CS) Beacon Object File (BOF) for kernel exploitation using AMD's Ryzen Master Driver (version 17).
    * Credit - https://twitter.com/tijme
    * Link - https://github.com/tijme/amd-ryzen-master-driver-v17-exploit
+3. PrivKit - PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.
+   * Credit - https://twitter.com/merterpreter
+   * Link - https://github.com/mertdas/PrivKit
 
 ### Defense Evasion
 1. WdToggle - A Proof of Concept Cobalt Strike Beacon Object File which uses direct system calls to enable WDigest credential caching and circumvent Credential Guard (if enabled).
