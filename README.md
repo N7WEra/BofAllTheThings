@@ -164,6 +164,9 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
 8. aad_prt - extract Azure AD PRT tokens
    * Credit - https://twitter.com/wotwot563
    * Link - https://github.com/wotwot563/aad_prt_bof
+9. Cookie-Graber-BOF - C or BOF file to extract WebKit master key to decrypt user cookie.
+   * Credit - https://twitter.com/MrUn1k0d3r
+   * Link - https://github.com/Mr-Un1k0d3r/Cookie-Graber-BOF
 
 ### Lateral Movement
 1. DCOM Lateral Movement -  quick PoC that uses DCOM (ShellWindows) via beacon object files for lateral movement.
