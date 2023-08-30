@@ -83,6 +83,12 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
    * Link - https://github.com/mlcsec/ASRenum-BOF
 
 ### Persistence
+1. PersistBOF - A tool to help automate common persistence mechanisms. Currently supports Print Monitor (SYSTEM), Time Provider (Network Service), Start folder shortcut hijacking (User), Junction Folder (User), Xll Add-In (User).
+   * Credit - https://twitter.com/i/flow/login?redirect_after_login=%2FN4k3dTurtl3
+   * Link - https://github.com/N4kedTurtle/PersistBOF
+2. BOF_Collection - Persistence via Registry
+   * Credit - https://twitter.com/424f424f
+   * Link - https://github.com/rvrsh3ll/BOF_Collection
  
 ### Privilege Escalation
 1. kernel-mii - Cobalt Strike (CS) Beacon Object File (BOF) foundation for kernel exploitation using CVE-2021-21551.
