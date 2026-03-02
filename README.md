@@ -183,6 +183,9 @@ https://chryzsh.github.io/awesome-bof/site/
 9. Cookie-Graber-BOF - C or BOF file to extract WebKit master key to decrypt user cookie.
    * Credit - https://twitter.com/MrUn1k0d3r
    * Link - https://github.com/Mr-Un1k0d3r/Cookie-Graber-BOF
+10. LSA Whisperer BOF - A Beacon Object File (BOF) that talks directly to Windows authentication packages through the LSA untrusted/trusted client interface, without touching LSASS process memory.
+   * Credit - Arun Nair (dazzyddos)
+   * Link - [https://github.com/Mr-Un1k0d3r/Cookie-Graber-BOF](https://github.com/dazzyddos/lsawhisper-bof)
 
 ### Lateral Movement
 1. DCOM Lateral Movement -  quick PoC that uses DCOM (ShellWindows) via beacon object files for lateral movement.
