@@ -32,6 +32,10 @@ The idea is to collect all the Beacon Object Files (BoF ) projects that are out 
    * BOFs - ai_surface, clipboard_grab, window_handles_enum, notepad_grab, schtask_enum, session_view, certstore_loot, process_tokens_list, amsi_etw_detect, app_count, applocker_policy, asr_status, bitlocker_status, com_probe, mdm_policy_artifacts, netjoin_query, user_idle, wallpaper_enum, wef_detect, wevt_logon_enum, window_list, wsc_status, win_version
    * Credit - Gavin K (atomiczsec)
    * [https://github.com/atomiczsec/Adrenaline](https://github.com/atomiczsec/Adrenaline)
+7. Adaptix-Framework Extension-Kit
+   * BOFs - Too many to list
+   * Credit - RalfHacker
+   * Link - https://github.com/Adaptix-Framework/Extension-Kit
 
 ### Execution
 1. tgtdelegation - obtain a usable TGT for the current user and does not require elevated privileges on the host
