@@ -3,6 +3,9 @@ Creating a repository with all public Beacon Object Files (BoFs)
 
 The idea is to collect all the Beacon Object Files (BoF ) projects that are out there (similar to my SharpAllTheThings project) that can be used in Cobalt Strike as inline execute command. Credit the name to the amazing PayloadAllTheThings github repo (https://github.com/swisskyrepo/PayloadsAllTheThings)
 
+### Interactive search 
+https://chryzsh.github.io/awesome-bof/site/
+
 ### BOF Collections
 1. TrustedSec BOFS
    * BOFS - arp, adcs_enum, adcs_enum_com, adcs_enum_com2, adv_audit_policies, cacls, dir, driversigs, enum_filter_driver, enumLocalSessions, env, findLoadedModule, get_password_policy, ipconfig, ldapsearch, listdns, listmods, listpipes, netstat, netuser, netuse_add, netuse_delete, netuse_list, netview, netGroupList, netGroupListMembers, netLocalGroupList, netLocalGroupListMembers, nslookup, reg_query, reg_query_recursive, routeprint, schtasksenum, schtasksquery, sc_enum, sc_qc, sc_qfailure, sc_qtriggerinfo, sc_query, sc_qdescription, tasklist, whoami, windowlist, wmi_query, netsession, resources, uptime, vssenum, adcs_request, chromeKey, enableuser, procdump, ProcessDestroy, ProcessListHandles, reg_delete, reg_save, reg_set, sc_config, sc_create, sc_delete, sc_description, sc_start, sc_stop, schtaskscreate, schtasksdelete, schtasksstop, setuserpass, shspawnas
